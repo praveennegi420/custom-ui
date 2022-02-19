@@ -1,0 +1,8 @@
+body{background-color: #1A1A40; text-align: center; }
+hr{ border-top: 2px solid rgb(73, 108, 144); border-bottom:none ; width: 85%;}
+.eth-box{background-color: #0905345e; height: 470px;border: solid #141438e5; width:320px; margin:12rem auto 0px; border-radius: 15px;}
+.eth-img{ object-fit: cover; object-position: center; height: 240px; width: 280px; margin-top: 22px; }
+h1{color:rgba(220, 255, 249, 0.306); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: left; margin-left: 28px; margin-top: 7px;margin-bottom: 9px;}
+p{text-align: left; padding: 3px; margin-left: 28px;margin-top: 0px;padding-top: 0px; color: #6e8187b4; font-family: sans-serif;}
+.eth{color: rgba(16, 169, 169, 0.782); height: 20px; display: inline-block; margin-left: 29px;}
+.clock{color: rgba(215, 227, 238, 0.802); margin-left: 113px;}
